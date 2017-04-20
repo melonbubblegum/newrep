@@ -1,0 +1,33 @@
+body {
+	background: #99ffe4;
+	font-size:30px; 
+	line-height: 1.4em; 
+	color:white;
+}
+
+h1 {font-size:80px;
+	line-height:1.1em;
+}
+
+a {
+	color:#e9dbff;
+}
+
+p, ul, ol {
+	margin-bottom:20px;
+}
+
+ul, ol {
+	padding-left:30px;	
+}
+
+#main {
+	max-width: 500px;
+	margin: auto;
+}
+
+.place-pic {
+	max-width: 48%;
+	float: left; 
+	margin-right:2%;
+}
