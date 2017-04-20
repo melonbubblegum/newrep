@@ -1,0 +1,2 @@
+# newrep
+cool first repository
